@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "7c84dd44f5f565bb",
+        "device_id": "devices 544",
         "key": "Super",
         "expirydate": "31-11-2050",
         "Allowoffline": false
@@ -60,8 +60,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "49e0e1f233d73743",
-        "key": "trial",
+        "device_id": "7c84dd44f5f565bb",
+        "key": "02111333",
         "expirydate": "31-11-2026",
         "Allowoffline": false
     },
