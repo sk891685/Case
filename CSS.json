@@ -95,5 +95,11 @@
         "expirydate": "02-04-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "14f2b85378cdee89",
+        "key": "shiv2",
+        "expirydate": "18-04-2026",
+        "Allowoffline": false
+    },
      
 ]
