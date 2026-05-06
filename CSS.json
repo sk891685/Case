@@ -102,5 +102,11 @@
         "expirydate": "04-06-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "c09930f08f62a500",
+        "key": "v410",
+        "expirydate": "06-06-2026",
+        "Allowoffline": false
+    },
      
 ]
