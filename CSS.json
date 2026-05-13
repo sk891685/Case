@@ -108,5 +108,10 @@
         "expirydate": "06-06-2026",
         "Allowoffline": false
     },
-     
+     {
+        "device_id": "48c2e054ab78f312",
+        "key": "450urja",
+        "expirydate": "06-06-2026",
+        "Allowoffline": false
+    },
 ]
