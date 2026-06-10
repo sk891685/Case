@@ -126,4 +126,10 @@
         "expirydate": "04-07-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "08e866bbf474f1bf",
+        "key": "uppcl",
+        "expirydate": "10-07-2026",
+        "Allowoffline": false
+    },
 ]
