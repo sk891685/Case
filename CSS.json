@@ -131,5 +131,10 @@
         "key": "uppcl",
         "expirydate": "10-08-2026",
         "Allowoffline": false
+    },{
+        "device_id": "14f2b85378cdee89",
+        "key": "shiv1",
+        "expirydate": "26-09-2026",
+        "Allowoffline": false
     },
 ]
