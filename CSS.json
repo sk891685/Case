@@ -302,9 +302,9 @@
         "expirydate": "26-07-2026",
         "Allowoffline": false
     },  {
-        "device_id": "0",
-        "key": "0",
-        "expirydate": "26-08-2026",
+        "device_id": "c43b15222b442d25",
+        "key": "snap5",
+        "expirydate": "28-08-2026",
         "Allowoffline": false
     },
 ]
