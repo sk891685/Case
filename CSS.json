@@ -307,4 +307,10 @@
         "expirydate": "28-08-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "28d95e60e1f582f2",
+        "key": "snap6",
+        "expirydate": "01-09-2026",
+        "Allowoffline": false
+    },
 ]
