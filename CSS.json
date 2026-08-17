@@ -313,412 +313,350 @@
         "expirydate": "01-09-2026",
         "Allowoffline": false
     },
-
-           
-        
     {
-        "username": "Admin",
-        "DeviceID": "9294ed1cab90809e",
+        "device_id": "9294ed1cab90809e",
         "Key": "admin",
         "Expiry": "28/08/2026",
         "Banned": false
     },
     {
-        "username": "uppcl1",
-        "DeviceID": "2746d3bddeb416c2",
+        "device_id": "2746d3bddeb416c2",
         "Key": "5b2d8e41c7a3f096",
         "Expiry": "26/08/2026",
         "Banned": false
     },
     {
-        "username": "SHIVA",
-        "DeviceID": "b7fc74b4936baa8c",
+        "device_id": "b7fc74b4936baa8c",
         "Key": "d1c93a84e2f507b6",
         "Expiry": "29/07/2026",
         "Banned": false
     },
     {
-        "username": "Erbasti",
-        "DeviceID": "ec45599ccc3d44ed",
+        "device_id": "ec45599ccc3d44ed",
         "Key": "e83b2a704f19c5d1",
         "Expiry": "30/08/2026",
         "Banned": false
     },
     {
-        "username": "UPPCL_1",
-        "DeviceID": "5e7a966e566ed521",
+        "device_id": "5e7a966e566ed521",
         "Key": "4c0f81d923ea76b5",
         "Expiry": "28/08/2026",
         "Banned": false
     },
     {
-        "username": "UPPCL_1",
-        "DeviceID": "b3e00c7a1408006b",
+        "device_id": "b3e00c7a1408006b",
         "Key": "91a62d4e8b350f72",
         "Expiry": "29/08/2026",
         "Banned": false
     },
     {
-        "username": "Chandraprakash_1",
-        "DeviceID": "a06796c37ddb67c3",
+        "device_id": "a06796c37ddb67c3",
         "Key": "f62d81a304e95cb7",
         "Expiry": "27/09/2026",
         "Banned": false
     },
     {
-        "username": "UPPCL_1",
-        "DeviceID": "a5e134b06464ad95",
+        "device_id": "a5e134b06464ad95",
         "Key": "3b8e19c05d7f2a41",
         "Expiry": "31/07/2026",
         "Banned": false
     },
     {
-        "username": "UPPCL",
-        "DeviceID": "a37f6496f2ca66fd",
+        "device_id": "a37f6496f2ca66fd",
         "Key": "7a048e912bc3d5f6",
         "Expiry": "31/08/2026",
         "Banned": false
     },
     {
-        "username": "Admin",
-        "DeviceID": "8f0f5de95f979083",
+        "device_id": "8f0f5de95f979083",
         "Key": "c3d5f8120e49a7b6",
         "Expiry": "31/08/2026",
         "Banned": false
     },
     {
-        "username": "Uppcl",
-        "DeviceID": "2ff2b04a65caef42",
+        "device_id": "2ff2b04a65caef42",
         "Key": "e1f9a23b84c7d050",
         "Expiry": "31/08/2026",
         "Banned": false
     },
     {
-        "username": "UPPCL AMIT",
-        "DeviceID": "efa4d2de81617df6",
+        "device_id": "efa4d2de81617df6",
         "Key": "680c2f341d9e8b75",
         "Expiry": "31/08/2026",
         "Banned": false
     },
     {
-        "username": "Om ji mishra",
-        "DeviceID": "7411f3b8b85bfd5b",
+        "device_id": "7411f3b8b85bfd5b",
         "Key": "b2e71f4095a83cd4",
         "Expiry": "31/08/2026",
         "Banned": false
     },
     {
-        "username": "Lalchanc sso",
-        "DeviceID": "6b0960bbf9048e1d",
+        "device_id": "6b0960bbf9048e1d",
         "Key": "8f30d7b2a61e95c4",
         "Expiry": "31/08/2026",
         "Banned": false
     },
     {
-        "username": "Shusil kaptanganj",
-        "DeviceID": "d3d039e0ed8a1bde",
+        "device_id": "d3d039e0ed8a1bde",
         "Key": "01d4a82e9b5c37f6",
         "Expiry": "01/09/2026",
         "Banned": false
     },
     {
-        "username": "Pankaj mishra",
-        "DeviceID": "f1c985c9361be073",
+        "device_id": "f1c985c9361be073",
         "Key": "5a7e39b104c82f91",
         "Expiry": "04/09/2026",
         "Banned": false
     },
     {
-        "username": "Sudhir baliya",
-        "DeviceID": "0d79ca59e92880cb",
+        "device_id": "0d79ca59e92880cb",
         "Key": "9d18b2c4e53f0a76",
         "Expiry": "03/09/2026",
         "Banned": false
     },
     {
-        "username": "Mishra dubauliya",
-        "DeviceID": "a3370010f83485b6",
+        "device_id": "a3370010f83485b6",
         "Key": "2c8f410a79e5b3d0",
         "Expiry": "04/09/2026",
         "Banned": false
     },
     {
-        "username": "Agyaram sso",
-        "DeviceID": "adaec227ff81bddb",
+        "device_id": "adaec227ff81bddb",
         "Key": "7e3b91a0c4f825d6",
         "Expiry": "04/09/2026",
         "Banned": false
     },
     {
-        "username": "je Dhananjay",
-        "DeviceID": "6b675b2723d5a056",
+        "device_id": "6b675b2723d5a056",
         "Key": "f041d8e29a35b7c6",
         "Expiry": "04/09/2026",
         "Banned": false
     },
     {
-        "username": "Hari bachan",
-        "DeviceID": "880c7df57d4fe335",
+        "device_id": "880c7df57d4fe335",
         "Key": "a3b98c2d1e045f76",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Rana ji",
-        "DeviceID": "2341d18317c398d0",
+        "device_id": "2341d18317c398d0",
         "Key": "c5f10a82e947b3d9",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "SUDISH",
-        "DeviceID": "a2b2e61059132a0b",
+        "device_id": "a2b2e61059132a0b",
         "Key": "1b9e4a3075c28f0d",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Sandeep yadav",
-        "DeviceID": "981d2c8bc1eb6251",
+        "device_id": "981d2c8bc1eb6251",
         "Key": "e4f0218b9c73a5d6",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Saurabh Dubey",
-        "DeviceID": "ab4d729c2299df5c",
+        "device_id": "ab4d729c2299df5c",
         "Key": "d82a10c95e347fb0",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Je dumariyaganj",
-        "DeviceID": "4f5666df54058211",
+        "device_id": "4f5666df54058211",
         "Key": "3a9c8b712d045f8e",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Sdo balliya",
-        "DeviceID": "9aa6a4b988a3c879",
+        "device_id": "9aa6a4b988a3c879",
         "Key": "6e14a2b903f57c8d",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Ajay Kumar dewariya",
-        "DeviceID": "4a921511f137c328",
+        "device_id": "4a921511f137c328",
         "Key": "0f3c8a915d24b7e0",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Amod Kumar",
-        "DeviceID": "6674d25d37419334",
+        "device_id": "6674d25d37419334",
         "Key": "8b7d0a319e52c4f6",
         "Expiry": "05/09/2026",
         "Banned": false
     },
     {
-        "username": "Sanjeev kanpur 2",
-        "DeviceID": "1220c356410d1dd7",
+        "device_id": "1220c356410d1dd7",
         "Key": "4a18e2c90f37b5d0",
         "Expiry": "06/09/2026",
         "Banned": false
     },
     {
-        "username": "Abhimanyu gond",
-        "DeviceID": "2724b8519cd5ab76",
+        "device_id": "2724b8519cd5ab76",
         "Key": "5c9f28d01a3e7b41",
         "Expiry": "07/09/2026",
         "Banned": false
     },
     {
-        "username": "Sushil rudhouli",
-        "DeviceID": "85f1884cd110560c",
+        "device_id": "85f1884cd110560c",
         "Key": "2b0d91c48e75a3f6",
         "Expiry": "08/09/2026",
         "Banned": false
     },
     {
-        "username": "Shobharam bhanpur",
-        "DeviceID": "6a19e7eb496a8b4d",
+        "device_id": "6a19e7eb496a8b4d",
         "Key": "b7e4a10c95d28f31",
         "Expiry": "08/09/2026",
         "Banned": false
     },
     {
-        "username": "Mukesh ekdenwa",
-        "DeviceID": "2901d52d6c881252",
+        "device_id": "2901d52d6c881252",
         "Key": "c1a8d0b5e93f724d",
         "Expiry": "08/09/2026",
         "Banned": false
     },
     {
-        "username": "Amit Sanjeev",
-        "DeviceID": "08e866bbf474f1bf",
+        "device_id": "08e866bbf474f1bf",
         "Key": "f3b92c10a4e8d75a",
         "Expiry": "09/09/2026",
         "Banned": false
     },
     {
-        "username": "Amit sss",
-        "DeviceID": "642ffeef38a48b12",
+        "device_id": "642ffeef38a48b12",
         "Key": "9e5c01d4a82f37b6",
         "Expiry": "09/09/2026",
         "Banned": false
     },
     {
-        "username": "Rajkumar shing store",
-        "DeviceID": "7c3e007775786d5f",
+        "device_id": "7c3e007775786d5f",
         "Key": "1d8a39c0f52e4b7c",
         "Expiry": "09/09/2026",
         "Banned": false
     },
     {
-        "username": "Sanjeev sso fatepur",
-        "DeviceID": "c09930f08f62a500",
+        "device_id": "c09930f08f62a500",
         "Key": "d4e281a095c37f0b",
         "Expiry": "10/09/2026",
         "Banned": false
     },
     {
-        "username": "Ajay sso kaptanganj",
-        "DeviceID": "8b88be82e4b87e4b",
+        "device_id": "8b88be82e4b87e4b",
         "Key": "7c0f41d92e85a3b2",
         "Expiry": "08/08/2026",
         "Banned": false
     },
     {
-        "username": "RAJESH KUMAR CHAUDHARY DASIYA",
-        "DeviceID": "406d367272ef74a1",
+        "device_id": "406d367272ef74a1",
         "Key": "3e9b10a28f4c5d71",
         "Expiry": "10/09/2026",
         "Banned": false
     },
     {
-        "username": "Manoj Kumar yadav dubauliya",
-        "DeviceID": "4ea385a411710a93",
+        "device_id": "4ea385a411710a93",
         "Key": "a82f37d10e54b9c0",
         "Expiry": "11/09/2026",
         "Banned": false
     },
     {
-        "username": "Sonu gotwa",
-        "DeviceID": "b42550fc74d2426d",
+        "device_id": "b42550fc74d2426d",
         "Key": "8c2d91a0b5e34f70",
         "Expiry": "06/09/2026",
         "Banned": false
     },
     {
-        "username": "Dharmendra devriya",
-        "DeviceID": "3c3732634097ce26",
+        "device_id": "3c3732634097ce26",
         "Key": "e5b0a3c91d842f76",
         "Expiry": "12/09/2026",
         "Banned": false
     },
     {
-        "username": "Chandar mauli",
-        "DeviceID": "8e4838ef8f65c41e",
+        "device_id": "8e4838ef8f65c41e",
         "Key": "2f7c01d94a853e0b",
         "Expiry": "12/09/2026",
         "Banned": false
     },
     {
-        "username": "RAJESH EKDEGWA",
-        "DeviceID": "3a4aa4c2a312800c",
+        "device_id": "3a4aa4c2a312800c",
         "Key": "6a9e14b28c057f31",
         "Expiry": "13/09/2026",
         "Banned": false
     },
     {
-        "username": "Prince Kumar dewariya",
-        "DeviceID": "2e2964846473a154",
+        "device_id": "2e2964846473a154",
         "Key": "0c5d2f819a4e37b2",
         "Expiry": "13/09/2026",
         "Banned": false
     },
     {
-        "username": "Rishikesh deuriya",
-        "DeviceID": "b1b00b92f59adb3d",
+        "device_id": "b1b00b92f59adb3d",
         "Key": "4b8e19a0c2f537d6",
         "Expiry": "14/09/2026",
         "Banned": false
     },
     {
-        "username": "Sanjay",
-        "DeviceID": "fe692fa1e3ae70cf",
+        "device_id": "fe692fa1e3ae70cf",
         "Key": "d9c02a815e347f0b",
         "Expiry": "14/09/2026",
         "Banned": false
     },
     {
-        "username": "RAM TERAS",
-        "DeviceID": "78314e211ef9b218",
+        "device_id": "78314e211ef9b218",
         "Key": "1e4a90b32f85c7d6",
         "Expiry": "14/09/2026",
         "Banned": false
     },
     {
-        "username": "Ganesh Kumar",
-        "DeviceID": "2aaf704b14b87a47",
+        "device_id": "2aaf704b14b87a47",
         "Key": "5f3b28d01e4a97c6",
         "Expiry": "15/09/2026",
         "Banned": false
     },
     {
-        "username": "AKHIL",
-        "DeviceID": "0503e04b6a9ce3be",
+        "device_id": "0503e04b6a9ce3be",
         "Key": "b0a28f7d9c14e531",
         "Expiry": "15/09/2026",
         "Banned": false
     },
     {
-        "username": "Rp shing basti store",
-        "DeviceID": "38c8241089e0149f",
+        "device_id": "38c8241089e0149f",
         "Key": "7d9c1a0e82f53b41",
         "Expiry": "15/09/2026",
         "Banned": false
     },
     {
-        "username": "DURGESH KUMAR",
-        "DeviceID": "26287a092b6aa7cc",
+        "device_id": "26287a092b6aa7cc",
         "Key": "3c8e01d4a9527fb6",
         "Expiry": "16/09/2026",
         "Banned": false
     },
     {
-        "username": "Harish",
-        "DeviceID": "a4f4d1656b319f57",
+        "device_id": "a4f4d1656b319f57",
         "Key": "8f14b2d09c35a7e6",
         "Expiry": "16/09/2026",
         "Banned": false
     },
     {
-        "username": "Chandrabhan sso ekdenwa",
-        "DeviceID": "ab03d3df77a3388c",
+        "device_id": "ab03d3df77a3388c",
         "Key": "2e0a8f915c43d7b6",
         "Expiry": "16/09/2026",
         "Banned": false
     },
     {
-        "username": "Daya",
-        "DeviceID": "254655432b128415",
+        "device_id": "254655432b128415",
         "Key": "e9a04f128b537cd6",
         "Expiry": "16/09/2026",
         "Banned": true
     },
     {
-        "username": "घनश्याम यादव",
-        "DeviceID": "6dbbccec8d0644ad",
+        "device_id": "6dbbccec8d0644ad",
         "Key": "4d8a29c01f357eb6",
         "Expiry": "16/09/2026",
         "Banned": false
     }
 ]
-       "Expiry": "16/09/2026",
-            "Banned": false
-        }
+  }
     ]
     
 ]
