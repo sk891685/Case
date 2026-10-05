@@ -1,5 +1,15 @@
-     "device_id": "77a009f0a76924cb5d0cfce2669d26306bd025808db22bc963a444473138fc21",
-       
-        
-       
-    
+{
+  "active": true,
+  "message": "Activation successful",
+  "version": "1.0.0",
+  "devices": [
+    {
+      "device_id": "YOUR_DEVICE_ID_1",
+      "active": true
+    },
+    {
+      "device_id": "YOUR_DEVICE_ID_2",
+      "active": true
+    }
+  ]
+}
