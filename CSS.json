@@ -1,15 +1,16 @@
 {
-  "active": true,
-  "message": "Activation successful",
-  "version": "1.0.0",
-  "devices": [
-    {
-      "device_id": "YOUR_DEVICE_ID_1",
-      "active": true
-    },
-    {
-      "device_id": "YOUR_DEVICE_ID_2",
-      "active": true
-    }
-  ]
+  "status": "activation_expired",
+  "activated": false,
+  "message": "Your authorization has expired. Please renew your activation.",
+  "registration": {
+    "required": true,
+    "message": "You are not registered. Please contact admin."
+  },
+  "links": {
+    "renew_activation": "https://payment.paymentgatway89.workers.dev/",
+    "admin": "https://wa.me/27639744883",
+    "register": "https://wa.me/27639744883",
+    "connect_admin": "https://wa.me/27639744883"
+  },
+  "devices": []
 }
