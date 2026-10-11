@@ -1,7 +1,11 @@
 {
-  "status": "active",
-  "registered_devices": [
-    "6828d9a5-9b93-4673-9c6e-4839759bfc55"
-  ],
-  "message": "Device registration status"
+  "registered": true,
+  "authKey": "YOUR_AUTH_KEY",
+  "devices": [
+    {
+      "deviceId": "YOUR_DEVICE_ID",
+      "registered": true,
+      "expiry_date": "2026-12-31"
+    }
+  ]
 }
