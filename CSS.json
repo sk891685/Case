@@ -1,12 +1,7 @@
 {
   "status": "active",
-  "message": "Device registration status",
   "registered_devices": [
-    "REPLACE_WITH_DEVICE_ID_COPIED_FROM_APP"
+    "6828d9a5-9b93-4673-9c6e-4839759bfc55"
   ],
-  "links": {
-    "renew_activation": "https://payment.paymentgatway89.workers.dev/",
-    "admin": "https://wa.me/27639744883",
-    "register": "https://wa.me/27639744883"
-  }
+  "message": "Device registration status"
 }
